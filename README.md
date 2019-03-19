@@ -3,8 +3,6 @@ CECS 105 GitHub Workshop
 
 Add something
 
-MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP
-
-cthulhu ph'tagn
+There's no problem. Everything's fine.
 
 local changes
